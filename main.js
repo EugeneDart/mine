@@ -1,10 +1,10 @@
 /* Мой город */
 let cityname = 'Винница';
-    console.log('cityname');
+    console.log(cityname);
 let countryname = 'Украина';
-    console.log('countryname');
+    console.log(countryname);
 let populationnumb = 350.000;
-    console.log('populationnumb');
+    console.log(populationnumb);
 
 let stadiumyes = true;
 let stadiumno = false;
